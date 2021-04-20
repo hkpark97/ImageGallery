@@ -1,0 +1,28 @@
+[
+    {
+        "id": "01",
+        "url": "img/image_01.jpg",
+        "time": "5000"
+    },
+    {
+        "id": "02",
+        "url": "img/image_02.jpg",
+        "time": "5000"
+    },
+    {
+        "id": "03",
+        "url": "img/image_03.jpg",
+        "time": "5000"
+    },
+    {
+        "id": "04",
+        "url": "img/image_04.jpg",
+        "time": "5000"
+    },
+    {
+        "id": "05",
+        "url": "img/image_05.jpg",
+        "time": "5000"
+    }
+   
+]
